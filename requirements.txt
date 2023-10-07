@@ -1,0 +1,8 @@
+1.) Eksctl setup 
+# https://drive.google.com/drive/folders/1FHuXRpBecNEH8VYEipR9oSy40tBVz774
+
+2.) Helm installation
+# https://drive.google.com/drive/folders/1FHuXRpBecNEH8VYEipR9oSy40tBVz774
+
+3.) Kubectl installtion
+# https://drive.google.com/drive/folders/1FHuXRpBecNEH8VYEipR9oSy40tBVz774
